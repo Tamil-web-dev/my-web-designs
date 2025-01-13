@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .my-google-font{
+        color: #3c4043;
+        font-weight: 500;
+    }
+    .my-lang {
+        color: #1a0dab;
+    }
+    .my-lang a {
+        margin: 2px;
+    }
+    .my-lang a:hover{
+        text-decoration: underline;
+    }
+    .my-footer {
+        background-color: #f2f2f2;
+    }
+}
