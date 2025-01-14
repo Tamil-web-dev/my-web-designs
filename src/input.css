@@ -19,4 +19,7 @@
     .my-footer {
         background-color: #f2f2f2;
     }
+    .DEV-ONLY {
+        display: none;
+    }
 }
